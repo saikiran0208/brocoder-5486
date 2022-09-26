@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @brocoder-5486
-- 👀 I’m interested in Web Development
+- 👀 I’m working as a FullStack Developer
 - 🌱 I’m currently learning Vue.js, ruby on rails, postgresql
 - 💞️ I’m looking to collaborate on real world projects
 
